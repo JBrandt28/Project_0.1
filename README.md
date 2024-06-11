@@ -15,6 +15,8 @@ npm install sequelize
 npm install mysql2
 <br>
 npm install express
+<br>
+npm install express mysql body-parser cors
 
 
 frontend
