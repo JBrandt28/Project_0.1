@@ -9,10 +9,30 @@ npm install react-router-dom
 npm run dev
 
 beckend
+<br>
 npm install sequelize
+<br>
 npm install mysql2
+<br>
 npm install express
 
+
 frontend
+<br>
 npm install react-router-dom
+<br>
 npm install
+
+MySQL comandos:
+<br>
+create database note;
+<br>
+use note;
+<br>
+show tables;
+<br>
+describe tarefas;
+<br>
+desc tarefas;
+<br>
+select*from tarefas;
