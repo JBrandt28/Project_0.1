@@ -25,6 +25,8 @@ npm install axios
 <br>
 npm install react-router-dom
 <br>
+npm install bootstrap
+<br>
 npm install
 
 MySQL comandos:
